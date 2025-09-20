@@ -1,18 +1,3 @@
-## Back To Beast ##
-
-this mod have to project to add different new beast/annimals card
-the 1st version not really adds new mechanics but maybe the vengeful squirrels can turn into a new mechanic with the bone lord
-
-I apply a copy on that just for security, you can maybe take card if i accept. For this, contact me on discord : `cellri131`
-
-Please remember it's the beganing and it can be non-compatible with a lot of mod, it's just like a vanila extention
-
-only the Fr version exist for now, i don't try now to work on a Fr version so maybe wait 3.0/4.0
-
-i separ my different version on X.X and a big update on X.0
-
-the portraits was created by humain, great thanks to `Prof. Eggnog` who was a source of inspiration
-
 # Back To Beast - Guide des Cartes
 
 Ce mod ajoute de nouvelles cartes inspirées d'animaux sauvages et de créatures mystiques au jeu Inscryption.
